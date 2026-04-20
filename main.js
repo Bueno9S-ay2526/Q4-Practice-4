@@ -6,4 +6,5 @@ carCount()  {
     window.alert(carTally);
     carTally += 1;
   }
+  window.alert("The Parking has reached " + totalCar);
 }
