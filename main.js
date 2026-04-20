@@ -1,5 +1,5 @@
 carCount()  {
-  let carTally = 18;//initialcount
+  let carTally = 11;//initialcount
   const totalCar = 25;
 
   while (carTally < totalCar)  {
